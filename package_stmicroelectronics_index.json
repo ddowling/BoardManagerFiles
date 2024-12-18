@@ -1261,6 +1261,13 @@
               "archiveFileName": "CMSIS-5.9.0.tar.bz2",
               "checksum": "SHA-256:693aabf1a793512316bfc9809203a5cfe304931e981ba708b51419939c3cefcd",
               "size": "2365397"
+            },
+            {
+              "host": "aarch64-linux-gnu",
+              "url": "https://github.com/stm32duino/ArduinoModule-CMSIS/releases/download/5.9.0/CMSIS-5.9.0.tar.bz2",
+              "archiveFileName": "CMSIS-5.9.0.tar.bz2",
+              "checksum": "SHA-256:693aabf1a793512316bfc9809203a5cfe304931e981ba708b51419939c3cefcd",
+              "size": "2365397"
             }
           ]
         },
@@ -1537,6 +1544,13 @@
             },
             {
               "host": "i686-pc-linux-gnu",
+              "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.2.4/STM32Tools-2.2.4-linux.tar.bz2",
+              "archiveFileName": "STM32Tools-2.2.4-linux.tar.bz2",
+              "checksum": "SHA-256:6ebdc25c1fb7fc1d4f2509db82a6bd617e0b9307cb9192994db7184a8f6e209c",
+              "size": "157477"
+            },
+            {
+              "host": "aarch64-linux-gnu",
               "url": "https://github.com/stm32duino/Arduino_Tools/releases/download/2.2.4/STM32Tools-2.2.4-linux.tar.bz2",
               "archiveFileName": "STM32Tools-2.2.4-linux.tar.bz2",
               "checksum": "SHA-256:6ebdc25c1fb7fc1d4f2509db82a6bd617e0b9307cb9192994db7184a8f6e209c",
